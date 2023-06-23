@@ -7,3 +7,5 @@ Microsoft frt project
 
 #azure deployment link: https://jolly-dune-065059910.3.azurestaticapps.net/index.html
 
+#how i have deploy the project on ms azure: https://youtu.be/6liCZj_3_zw
+
