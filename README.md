@@ -5,5 +5,5 @@ Microsoft frt project
 
 
 
-#azure deployment link: 
+#azure deployment link: https://jolly-dune-065059910.3.azurestaticapps.net/index.html
 
