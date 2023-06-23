@@ -5,5 +5,5 @@ Microsoft frt project
 
 
 
-#azure deployment link: https://orange-bush-0fe986610.3.azurestaticapps.net/index.html
+#azure deployment link: 
 
